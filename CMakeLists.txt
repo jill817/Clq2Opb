@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(MyProject)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
+file(GLOB SOURCES "code/*.cpp")
+add_executable(Clq2Opb ${SOURCES})

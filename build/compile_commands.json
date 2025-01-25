@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/lijy/mytool/clq2opb/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Clq2Opb.dir/code/Graph.cpp.o -c /home/lijy/mytool/clq2opb/code/Graph.cpp",
+  "file": "/home/lijy/mytool/clq2opb/code/Graph.cpp"
+},
+
+{
+  "directory": "/home/lijy/mytool/clq2opb/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Clq2Opb.dir/code/ModelCon.cpp.o -c /home/lijy/mytool/clq2opb/code/ModelCon.cpp",
+  "file": "/home/lijy/mytool/clq2opb/code/ModelCon.cpp"
+},
+
+{
+  "directory": "/home/lijy/mytool/clq2opb/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Clq2Opb.dir/code/ModelObjective.cpp.o -c /home/lijy/mytool/clq2opb/code/ModelObjective.cpp",
+  "file": "/home/lijy/mytool/clq2opb/code/ModelObjective.cpp"
+},
+
+{
+  "directory": "/home/lijy/mytool/clq2opb/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Clq2Opb.dir/code/ModelVar.cpp.o -c /home/lijy/mytool/clq2opb/code/ModelVar.cpp",
+  "file": "/home/lijy/mytool/clq2opb/code/ModelVar.cpp"
+},
+
+{
+  "directory": "/home/lijy/mytool/clq2opb/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Clq2Opb.dir/code/Pars.cpp.o -c /home/lijy/mytool/clq2opb/code/Pars.cpp",
+  "file": "/home/lijy/mytool/clq2opb/code/Pars.cpp"
+},
+
+{
+  "directory": "/home/lijy/mytool/clq2opb/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/Clq2Opb.dir/code/main.cpp.o -c /home/lijy/mytool/clq2opb/code/main.cpp",
+  "file": "/home/lijy/mytool/clq2opb/code/main.cpp"
+}
+]
